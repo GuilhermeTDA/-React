@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+.header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e9e9e9;
+    padding: 15px;
+}
+
+.header h1 {
+    color: #222222;
+    font-size: 30px;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+}
+.header .social a {
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+
+
+.content {
+    margin-left: 190px;
+    border-left: 1px solid #999999;
+    padding: 1em;
+    overflow: hidden;
+}
+/* estilização lateral */
+
+.content h2
+, p {
+    margin: 16px 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+
+    
+
+
+/* rodapé */
+
+.footer {
+    background-color: #2e3550;
+    padding: 55px 20px;
+    text-align: center;
+    color: white;
+}

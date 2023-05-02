@@ -1,0 +1,12 @@
+.content {
+    margin-left: 190px;
+    border-left: 1px solid #999999;
+    padding: 1em;
+    overflow: hidden;
+}
+/* estilização lateral */
+
+.content h2
+, p {
+    margin: 16px 8px;
+}
